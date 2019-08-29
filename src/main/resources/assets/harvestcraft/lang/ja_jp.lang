@@ -2,7 +2,7 @@ itemGroup.harvestcraft=HarvestCraft
 
 
 harvestcraft.harvestcraft.tile.cuttingboard.name=まな板
-harvestcraft.tile.pot.name=ポット
+harvestcraft.tile.pot.name=鍋
 
 tile.beehive.name=蜂の巣
 tile.apiary.name=養蜂箱
@@ -1399,9 +1399,15 @@ item.slimepieitem.name=スライムパイ
 item.strawberryrhubarbpieitem.name=イチゴとルバーブのパイ
 item.tiropitaitem.name=ティロピタ
 item.rosepetalteaitem.name=ローズペタルティー
-
-
-
+item.rootbeerfloatitem.name=ルートビアフロートRoot Beer Float
+item.hotcocoaitem.name=ホットココア
+item.cinnamonbreaditem.name=シナモンブレッド
+item.fruitcakeitem.name=フルーツケーキ
+item.cornchipsitem.name=コーンチップ
+item.marshmellowchicksitem.name=ひよこのマシュマロ
+item.bbqchickenbiscuititem.name=BBQ チキンビスケット
+item.chickenbiscuititem.name=チキンビスケット
+item.pizzasliceitem.name=一切れのピザ
 
 
 
